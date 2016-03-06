@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+data/dot_json_feed_download.csv
+data/dot_json_feed_download.xlsx
+data/dot_json_feed_maxpriority3.csv
