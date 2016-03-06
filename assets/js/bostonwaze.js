@@ -1,4 +1,4 @@
-  var map = L.map('map').setView([42.328, -71.023], 12);
+  var map = L.map('map').setView([42.338, -71.103], 12);
 
   var icons = {
     constr: L.icon({

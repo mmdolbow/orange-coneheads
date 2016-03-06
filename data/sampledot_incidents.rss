@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+ <atom:link href="http://www.dot.state.mn.us/tmc/trafficinfo/incidents.rss" rel="self" type="application/rss+xml" />
+ <title>Mn/DOT Traveler Information</title>
+ <link>http://www.dot.state.mn.us/tmc/trafficinfo/index.html</link>
+ <description>Twin Cities Metro Area Incidents</description>
+ <language>en-us</language>
+ <copyright>Copyright 2011 Mn/DOT. All rights reserved.</copyright>
+ <managingEditor>tim.a.johnson@state.mn.us (Tim Johnson)</managingEditor>
+ <webMaster>tim.a.johnson@state.mn.us (Tim Johnson)</webMaster>
+ <pubDate>Sun, 06 Mar 2016 11:37:07 CST</pubDate>
+ <lastBuildDate>Sun, 06 Mar 2016 11:37:07 CST</lastBuildDate>
+ <docs>http://www.dot.state.mn.us/tmc/trafficinfo/rss</docs>
+ <ttl>1</ttl>
+ <image>
+  <title>Mn/DOT Traveler Information</title>
+  <link>http://www.dot.state.mn.us/tmc/trafficinfo/index.html</link>
+  <url>http://www.dot.state.mn.us/images/templates/logo.gif</url>
+  <width>71</width>
+  <height>71</height>
+ </image>
+ <skipHours>
+  <hour>0</hour>
+  <hour>1</hour>
+  <hour>2</hour>
+  <hour>3</hour>
+  <hour>4</hour>
+  <hour>21</hour>
+  <hour>22</hour>
+  <hour>23</hour>
+ </skipHours>
+ <item>
+ <guid isPermaLink="false">mndot_incident_2016030610213043</guid>
+ <title>Crash on Exit: I-494 WB @ T.H.212 WB</title>
+ <geo:lat>44.86554</geo:lat>
+ <geo:long>-93.43037</geo:long>
+  <description><![CDATA[
+  <img src="http://video.dot.state.mn.us/video/image?id=394"/>]]>
+  Crash on Exit I-494 WB @ T.H.212 WB
+  Occurred at: Sun @ 10:21
+  </description>
+  </item>
+ <item>
+ <guid isPermaLink="false">mndot_incident_2016030611331798</guid>
+ <title>Hazard on Mainline: I-35W SB @ 82nd St</title>
+ <geo:lat>44.85191</geo:lat>
+ <geo:long>-93.29839</geo:long>
+  <description><![CDATA[
+  <img src="http://video.dot.state.mn.us/video/image?id=6130"/>]]>
+  Hazard on Mainline I-35W SB @ 82nd St
+  Occurred at: Sun @ 11:33
+  </description>
+  </item>
+  </channel>
+  </rss>
