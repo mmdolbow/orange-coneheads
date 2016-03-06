@@ -4,6 +4,7 @@ An interactive map repo demonstrating various disparate feeds
 ## HAS:
 Basic framework for map (based on bootleaf)
 Tools, TOC
+Boston.html demonstrating how their Waze-styled feed can be consumed elsewhere
 
 ## NEEDS:
 A way to toggle (radio button?) between DOT incident levels. For example:
